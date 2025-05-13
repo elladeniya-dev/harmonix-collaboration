@@ -20,7 +20,7 @@ import java.util.Optional;
 public class AuthController {
 
     private final UserRepository userRepo;
-    private static final String CLIENT_ID = "1036212784994-7jd0ptsqp0sjtdnlmhrkevvj10hu1h6d.apps.googleusercontent.com";
+    private static final String CLIENT_ID = "";
 
 
     public AuthController(UserRepository userRepo) {
